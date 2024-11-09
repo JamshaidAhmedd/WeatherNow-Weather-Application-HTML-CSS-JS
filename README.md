@@ -1,5 +1,6 @@
 # Development of Weather Application utilizing OpenWeatherMap API
 This weather application is created using the OpenWeatherMap API with Vanilla JavaScript.
+Check out live version: https://jamshaidahmedd.github.io/WeatherNow-Weather-Application-HTML-CSS-JS/
 
 The application provides real-time temperature data along with additional details such as Air Quality Index, Real Feel, Humidity, Maximum Temperature, Minimum Temperature, Wind Speed, Wind Direction, Visibility, Pressure, Sunrise, and Sunset.
 
